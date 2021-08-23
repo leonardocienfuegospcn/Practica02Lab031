@@ -1,3 +1,3 @@
-Practica 02 Componentes y Directivas
+Practica 03 Observables
 Clientes App
-Listado de clientes
+Alta - Listado de clientes
